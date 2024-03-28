@@ -1,2 +1,2 @@
 # basics
-This is repo for setting up project derectory etc.
+This is repo for setting up project directory etc.
