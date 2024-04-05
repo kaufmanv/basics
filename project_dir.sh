@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create main directories
-mkdir -p my_project/{doc/{paper},data,src,bin,results}
+mkdir -p my_project/{doc/{paper},data,src,bin,results,tmp}
 
 # Create notes file inside results directory
 touch my_project/results/notes.md
