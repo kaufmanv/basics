@@ -14,6 +14,7 @@ create_project_structure() {
         "$project_name/results"
         "$project_name/results/figures"
         "$project_name/results/tables"
+        "$project_name/results/temp"
         "$project_name/scripts"
         "$project_name/docs"
         "$project_name/logs"
@@ -38,7 +39,6 @@ create_project_structure() {
     touch "$project_name/scripts/.gitkeep"
     touch "$project_name/docs/.gitkeep"
     touch "$project_name/logs/.gitkeep"
-    touch "$project_name/temp"
 
     echo "Project structure for '$project_name' created successfully."
 }

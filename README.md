@@ -7,7 +7,8 @@ The structure itself is based on paper with sklight modification:
 
 ![structure.png](./structure.png)
 
+For a script command run simply:
+> . proj_str.sh desired_project_name 
 
 **project_dir.sh** is skeleton of basic bash skript based on recommendation:
 >https://docs.e-infra.cz/compute/grid/computing/run-basic-job/#batch-job-example
-
